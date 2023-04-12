@@ -1,6 +1,6 @@
 # Create-an-Azure-Account-and-Deploy-a-Virtual-Machine
 <p align="center">
-<img src="https://i.imgur.com/Us74xWW.png" height="40%" width="40%" alt="Microsoft Azure Logo"/>
+<img src="https://i.imgur.com/7AUG74j.png" height="40%" width="40%" alt="Microsoft Azure Logo"/>
 </p>
 
 <h1>Create an Azure Account and Deploy a Virtual Machine</h1>
