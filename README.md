@@ -68,14 +68,14 @@ Next step is to create a virtual machine. At the portal, click on virtual machin
 <img src="https://i.imgur.com/a0OIYax.png" height="80%" width="80%" alt="Create Virtual Machine"/>
 </p>
 
-<h3>Step 4: Connect to virtual machine using Microsoft Remote Desktop on macOS</h3>
-The final step to this process is accessing the virtual machine using Microsoft Remote Desktop. If you are using macOS (like me), you have to download the application in the App Store. 
+<h3>Step 4: Connect to virtual machine using Microsoft Remote Desktop (RDP)</h3>
+The final step to this process is accessing the virtual machine using Microsoft Remote Desktop. If you are a macOS user, you have to download the application in the App Store. 
 
 <p align="center">
 <img src="https://i.imgur.com/pp1yQTE.png" height="80%" width="80%" alt="Microsoft Remote Desktop"/>
 </p>
 
-In order to connect to the virtual machine, first you need the public IP address. You can find this on the right hand side of this menu.
+In order to connect to the virtual machine, you will need the public IP address. You can find this on the right hand side of this menu.
 
 <p align="center">
 <img src="https://i.imgur.com/gT6F62H.png" height="80%" width="80%" alt="SampleVM menu with arrow and circle"/>
